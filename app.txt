@@ -3,10 +3,5 @@ bbbbbbbbbbbbbbbb
 cccccc
 ddddddddddddd
 eeeeeeeeeeeeee
-<<<<<<< .merge_file_a20920
 master
 마스터 master
-=======
-coupon
-쿠폰 coupon
->>>>>>> .merge_file_a16132
